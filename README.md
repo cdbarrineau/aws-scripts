@@ -1,1 +1,1 @@
-# aws-scripts
+# Mix of AWS CLI Scripts
